@@ -135,7 +135,7 @@ classifiers = [
 
 
 args = dict(
-    name='aiokafka',
+    name='robinhood-aiokafka',
     version=read_version(),
     description=('Kafka integration with asyncio.'),
     long_description='\n\n'.join((read('README.rst'), read('CHANGES.rst'))),
